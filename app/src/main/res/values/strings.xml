@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">myTask</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="gold">Gold</string>
+    <string name="silver">Silver</string>
+    <string name="bronze">Bronze</string>
+    <string name="submit">Submit</string>
+    <string name="username_or_email">Username or email</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="title_taks">Title of Task</string>
+    <string name="description_task">Description</string>
+    <string name="log_out">Log out</string>
+    <string name="delete_account">Delete account</string>
+    <string name="change_password">Change password</string>
+    <string name="new_password">New password:</string>
+    <string name="title">Title</string>
+    <string name="year">Year</string>
+    <string name="month">Month</string>
+    <string name="hour">Hour</string>
+    <string name="day">Day</string>
+    <string name="no_task">no task</string>
+    <string name="action_search">Search</string>
+    <string name="new_account">New account ?</string>
+</resources>

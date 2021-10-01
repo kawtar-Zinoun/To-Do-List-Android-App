@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ToDoListApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#B97A95</item>
+        <item name="colorPrimaryVariant">#F6AE99</item>
+        <item name="colorOnPrimary">#EEEEEE</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#53B8BB</item>
+        <item name="colorSecondaryVariant">#055052</item>
+        <item name="colorOnSecondary">#2B2B2B</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
